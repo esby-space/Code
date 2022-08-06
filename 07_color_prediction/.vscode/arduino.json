@@ -1,0 +1,6 @@
+{
+    "sketch": "07_color_prediction.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem101"
+}

@@ -1,0 +1,6 @@
+{
+    "sketch": "06_feedback.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem1101"
+}

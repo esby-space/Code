@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/06_feedback/build/sketch/06_feedback.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/06_feedback/build/sketch/06_feedback.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/06_feedback/build/sketch/DEV_Config.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/06_feedback/build/sketch/TCS34725.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/utility/twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

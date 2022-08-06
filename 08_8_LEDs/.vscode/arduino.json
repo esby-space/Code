@@ -1,0 +1,5 @@
+{
+    "sketch": "08_8_LEDs.ino",
+    "output": "build",
+    "board": "arduino:avr:uno"
+}

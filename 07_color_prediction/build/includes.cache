@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/variants/standard"
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/07_color_prediction/build/sketch/07_color_prediction.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src"
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/07_color_prediction/build/sketch/07_color_prediction.ino.cpp",
+    "Include": "SerialTransfer.h",
+    "Includepath": "/Users/esby/Documents/Arduino/libraries/SerialTransfer/src"
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/07_color_prediction/build/sketch/07_color_prediction.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/07_color_prediction/build/sketch/DEV_Config.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Spectroscopy/Code/07_color_prediction/build/sketch/TCS34725.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Library/Arduino15/packages/arduino/hardware/avr/1.8.5/libraries/Wire/src/utility/twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Arduino/libraries/SerialTransfer/src/I2CTransfer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Arduino/libraries/SerialTransfer/src/Packet.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Arduino/libraries/SerialTransfer/src/SPITransfer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/esby/Documents/Arduino/libraries/SerialTransfer/src/SerialTransfer.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

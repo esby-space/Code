@@ -1,0 +1,6 @@
+{
+    "sketch": "05_PWM_RGB.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem1101"
+}
